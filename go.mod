@@ -26,6 +26,7 @@ require (
 	github.com/go-openapi/swag v0.23.1 // indirect
 	github.com/go-openapi/validate v0.24.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
+	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/pprof v0.0.0-20250630185457-6e76a2b096b5 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -47,10 +48,11 @@ require (
 	github.com/prometheus/common v0.65.0 // indirect
 	github.com/prometheus/procfs v0.17.0 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
-	github.com/quic-go/quic-go v0.53.0 // indirect
+	github.com/quic-go/quic-go v0.52.0 // indirect
 	github.com/zeebo/blake3 v0.2.4 // indirect
 	go.mongodb.org/mongo-driver v1.17.4 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
+	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.uber.org/mock v0.5.2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
